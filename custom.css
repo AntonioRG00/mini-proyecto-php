@@ -1,0 +1,15 @@
+body{
+  background-color: #EAEAEA;
+}
+
+.encabezado { /* Los carteles que separan la información */
+  color: #DE0058;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.centrado{ /* Para centrar textos vertizal y horizontalmente */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
